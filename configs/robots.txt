@@ -1,0 +1,150 @@
+User-agent: Googlebot
+User-agent: AdsBot-Google
+User-agent: Googlebot-Image
+User-agent: Googlebot-Video
+User-agent: Googlebot-News
+User-agent: Storebot-Google
+User-agent: Google-InspectionTool
+User-agent: GoogleOther
+User-agent: GoogleOther-Image
+User-agent: GoogleOther-Video
+User-agent: Google-CloudVertexBot
+User-agent: Google-Extended
+User-agent: APIs-Google
+User-agent: AdsBot-Google-Mobile
+User-agent: Mediapartners-Google
+User-agent: Google-Safety #Ignoriert robots.txt
+User-agent: DuplexWeb-Google
+User-agent: AdsBot-Google-Mobile-Apps
+User-agent: googleweblight
+User-agent: Google-CWS
+User-agent: FeedFetcher-Google
+User-agent: GoogleMessages
+User-agent: Google-NotebookLM
+User-agent: Google-Pinpoint
+User-agent: GoogleProducer
+User-agent: google-speakr
+User-agent: Google-Site-Verification
+User-agent: Google-Read-Aloud
+User-agent: FooBot
+User-agent: BarBot
+User-agent: BazBot
+User-agent: Foo Bar
+User-agent: foo
+User-agent: bar
+User-agent: ExampleBot
+User-agent: quxbot
+User-agent: Twitterbot
+User-agent: DemandbaseWebsitePreview/0.1
+User-agent: Bingbot
+User-agent: MSNBot-Media
+User-agent: Baiduspider
+User-agent: DuckDuckBot
+User-agent: Slurp
+User-agent: YandexBot
+User-agent: ExaBot
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: Meta-ExternalAgent
+User-agent: PetalBot
+User-agent: Amazonbot
+User-agent: Bytespider
+User-agent: Claudebot
+User-agent: facebookexternalhit
+User-agent: meta-externalads/1.1
+User-agent: Applebot
+User-agent: SemrushBot/
+User-agent: DotBot
+User-agent: pinterest.com/
+User-agent: AhrefsBot
+User-agent: http://yandex.com/bots
+User-agent: GoogleImageProxy
+User-agent: ImagesiftBot
+User-agent: CCBot
+User-agent: omgili
+User-agent: Diffbot
+User-agent: Claude-Web
+User-agent: PerplexityBot
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+Allow: /robots.txt
+Disallow: /index.html
+Disallow: /*/
+
+User-agent: *
+Allow: /robots.txt
+Disallow: /index.html
+Disallow: /*/
+
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#User-agent: 
+#Allow: /robots.txt
+#Disallow: /index.html
+#Disallow: /*/
